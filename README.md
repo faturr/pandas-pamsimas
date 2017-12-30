@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages untuk aplikasi python dengan menggunakan modul pandas sebagai data analisis
 
 You can use the [editor on GitHub](https://github.com/faturr/pandas-pamsimas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,9 +14,13 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+# Isi file
+Adapun file-file di dalamnya besisi sebagai berikut
+- blm_papua.py: untuk mengenerate rangking BLM Nasional hasil donwload QS pelaksanaan BLM 2017 berupa xls file yang kemudian di export ke xlsx dengan menggunakan aplikasi Microsoft Excel dan OSX
+- libre_apbn_rangking.py : untuk mengenerate rangking APBN Nasional hasil donwload QS pelaksanaan APBN 2017 berupa xls file yang kemudian di export ke xlsx dengan menggunakan aplikasi Libreoffice dan GNU/Linux Manjaro.
+- libre_blm_rangking.py: untuk mengenerate rangking BLM Nasional hasil donwload QS pelaksanaan BLM 2017 berupa xls file yang kemudian di export ke xlsx dengan menggunakan aplikasi Libreoffice dan GNU/Linux Manjaro.
+- Hasil file output aplikasi adalah xlsx & html
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
